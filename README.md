@@ -1,6 +1,5 @@
 # speciation-with-gene-flow-at-Isthmus-of-Panama
-#Scripts for replication Musher et al. in prep
 
+#Scripts for replication of data analysis in Musher et al. in prep
 
-###jupyter notebook scripts are largely derived from ipyrad tutorials e.g. see https://radcamp.github.io/NYC2018/
-
+#Environmental niche modeling and associated scripts written by Peter Galante (AMNH Center for Biodiversity & Conservation)
