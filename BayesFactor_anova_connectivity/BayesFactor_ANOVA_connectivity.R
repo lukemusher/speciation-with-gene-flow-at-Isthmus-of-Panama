@@ -1,3 +1,4 @@
+#Author: Luke Musher
 setwd("PATH/TO/probabilityNeighborhoods/")
 
 ####plot the suitabilities through time####
